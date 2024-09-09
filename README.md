@@ -2,7 +2,7 @@
 
 🎓 **CS & Data Science Student** at Southern Methodist University (GPA: 3.9/4.0)  
 🔧 **Full-stack Developer** | **ML Enthusiast**  
-🌐 [LinkedIn](https://linkedin.com/in/neel-h-patel1) • [GitHub](https://github.com/neel-h-patel) • 📧 neel.hpatel@outlook.com
+🌐 [Personal Website](https://neelhpatel.com) • [LinkedIn](https://linkedin.com/in/neel-h-patel1) • [GitHub](https://github.com/neel-h-patel) • 📧 neel.hpatel@outlook.com
 
 ---
 
