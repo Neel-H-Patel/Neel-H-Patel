@@ -19,10 +19,10 @@
 ### [📖 Documentation AI Assistant](https://github.com/neel-h-patel/documentation-ai-assistant)
 A VS Code extension using GPT-4 API for real-time code explanations. Boosted developer productivity by 25%.
 
-### [💰 Finance Management Dashboard](https://github.com/neel-h-patel/finance-management-dashboard)
+### [💰 Finance Management Dashboard](https://github.com/Neel-H-Patel/personal-finance-management-dashboard)
 Full-stack finance tracker built with Angular and Django, deployed on AWS with CI/CD. Improved system uptime to 99.9%.
 
-### [🌪️ Tropical Storm Damage Detection](https://github.com/neel-h-patel/tropical-storm-damage-detection)
+### [🌪️ Tropical Storm Damage Detection](https://github.com/Neel-H-Patel/EY-storm-damage-detection-model)
 YOLOv8-based model for classifying coastal damage from storms, improving detection accuracy by 40%.
 
 ---
