@@ -8,9 +8,35 @@
 
 ## 🛠 Skills
 
-- **Languages**: Python, C#, C++, Java, TypeScript, JavaScript
-- **Web Development**: Angular, React, Node.js, Django, .NET
-- **Tools**: GCP, Docker, GitHub Actions, CI/CD
+<table>
+  <tr>
+    <td width="250">
+      <h3>Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    </td>
+    <td width="250">
+      <h3>Web Development</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
+    </td>
+    <td width="250">
+      <h3>Cloud Tools</h3>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" width="50" height="50"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
