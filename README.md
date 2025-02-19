@@ -1,8 +1,8 @@
-# Hi, I'm Neel Patel! 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1500&pause=1000&multiline=true&width=300&height=60&lines=%24+whoami;Neel+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 **CS & Data Science Student** at Southern Methodist University (GPA: 3.91/4.0)  
 🔧 **Full-stack Developer** | **Back-end Developer** | **Cloud Computing**  
-🌐 [Personal Website](https://neelhpatel.com) • [LinkedIn](https://linkedin.com/in/neel-h-patel1) • [GitHub](https://github.com/neel-h-patel) • 📧 neel.hpatel@outlook.com
+🌐 [Personal Website](https://neelhpatel.com) • [LinkedIn](https://linkedin.com/in/neel-h-patel1) • 📧 neel.hpatel@outlook.com
 
 ---
 
