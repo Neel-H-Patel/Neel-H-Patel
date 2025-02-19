@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=1000&multiline=true&width=450&height=70&lines=%24+whoami;Neel+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&multiline=true&width=450&height=70&lines=%24+whoami;Neel+Patel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 🎓 **CS & Data Science Student** at Southern Methodist University (GPA: 3.91/4.0)  
 🔧 **Full-stack Developer** | **Back-end Developer** | **Cloud Computing**  
