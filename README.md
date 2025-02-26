@@ -42,8 +42,8 @@
 
 ## 💡 Current Projects
 
-### [📖 Documentation AI Assistant](https://github.com/neel-h-patel/documentation-ai-assistant)
-A VS Code extension using GPT-4 API for real-time code explanations. Boosted developer productivity by 25%.
+### [Where to Run? AI Route Recommender](https://github.com/Neel-H-Patel/where-to-run-ai-route-recommender)
+A web app that helps users find the best running routes in their area based on terrain, safety, elevation, and weather conditions. Made with Next.js (React) and FastAPI (Python), deployed using Google Cloud Platform (Cloud Build and Cloud Run).
 
 ---
 
