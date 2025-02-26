@@ -45,6 +45,10 @@
 ### [Where to Run? AI Route Recommender](https://github.com/Neel-H-Patel/where-to-run-ai-route-recommender)
 A web app that helps users find the best running routes in their area based on terrain, safety, elevation, and weather conditions. Made with Next.js (React) and FastAPI (Python), deployed using Google Cloud Platform (Cloud Build and Cloud Run).
 
+Access the web page [here](https://frontend-service-369670867049.us-central1.run.app/).
+
+Currently working on creating a way for users to rate routes for the machine learning model to improve its performance.
+
 ---
 
 ## 📬 Get in Touch
